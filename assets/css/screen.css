@@ -59,6 +59,17 @@ section {
     margin-bottom: 20px;
 }
 
+section.presentation .row {
+    text-align: center;
+    display: inline-block;
+    font-size: xx-large;
+    width: 100%;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
 section.recent-posts {
     margin-bottom: 0;
 }
