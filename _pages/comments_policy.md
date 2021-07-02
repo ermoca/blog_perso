@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
+title: Politique de commentaires
+permalink: /comments
 comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Bientôt davantage d'information sur moi ;) </p>
+<p> A ajouter politique de commentaires </p>
 
 </div>
 </div>
