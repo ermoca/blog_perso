@@ -9,10 +9,7 @@ hidden: true
 
 Cela fait maintenant 6 ans que j'utilise un budget et je ne peux pas imaginer m'en passer. C'est bien simple, lorsque je n'ai pas eu accès pendant un mois à l'ordinateur sur lequel il se trouvait, j'avais l'impression d'avancer à l'aveugle. Je devais faire beaucoup d'achats et n'avait que mon solde pour me repérer au lieu de toute les informations que j'avais l'habitude d'avoir à ma disposition dans mon budget. Je me rassurais en me disant que en si peu de temps je ne pourrai pas faire tant de dégâts mais ma seule hate était de retrouver ce fichier pour me débarrasser de tous ces doutes et hypothéses que je devais faire parce qu'il n'était pas là pour gérer les choses à ma place.
 
-Autant dire que pour mes collégues et amis qui n'avaient jamais utilisé de budget de leur vie, mes hésitations n'avaient aucun sens. Et à vrai dire, dans ma situation (rendue) stable (par des années de soutien par mon budget), un mois, même "de folie", n'aurait eu pas beaucoup d'impact.  
-Mais il faut avoir eu les deux yeux ouverts pour réaliser le handicap que représente le fait d'être borgne ! 
-
-Et alors quand il ne me manque pas, à quoi me sert donc ce fameux budget ? 
+Mais alors quand il ne me manque pas, à quoi me sert donc ce fameux budget ? 
 
 Mon budget est là pour me dire quels sont mes moyens, il tient compte de mes charges quelques soit leur date de prélévement, il anticipe les mois difficiles, les imprévus "prévisibles" et ceux qui ne le sont pas. 
 Il s'assure que je ne fais pas des achats impulsifs au dépens des projets qui me tiennent à coeur mais une fois ceux-ci assurés, il m'encourage aussi à utiliser le surplus que ce soit pour me faire plaisir ou pour me débarasser de ce qui me prends la tête.
