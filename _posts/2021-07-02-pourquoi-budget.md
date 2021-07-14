@@ -24,4 +24,4 @@ Parce que c'était mon souhait, il a fait en sorte que je puisse quitter à tout
 Mon budget est un guide, un conseiller tout spécialement dédié à mon service qui prend sur lui la charge mentale de mes finances, assure ma sécurité et ne me laisse plus à gérer que les décisions vraiment importantes : "Est ce que je veux m'inscrire à des cours de chinois ou à des cours d'escrime à la rentrée ?"
 
 
-Si vous aussi, vous êtes un ou une fan de budget incompris par vos proches, racontez moi en commentaire tout ce que votre budget a pu faire pour vous !
+Si vous aussi, vous êtes un ou une fan de budget, racontez moi en commentaire tout ce que votre budget a pu faire pour vous !
