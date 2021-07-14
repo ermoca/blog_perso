@@ -22,3 +22,5 @@ Car même si cet argent est à nous, **𝐨𝐧 𝐫𝐞́𝐚𝐥𝐢𝐬𝐞 �
 Si vous donnez, avez vous remarqué cet effet positif sur vous même ? En avez vous d'autres à partager ?
 
 *\#budget \#argent \#don \#reflexion \#riche \#LeThéDuMercredi*
+
+Image par [OpenClipart-Vectors](https://pixabay.com/fr/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336) de [Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336)
