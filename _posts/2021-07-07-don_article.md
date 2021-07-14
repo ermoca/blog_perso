@@ -3,9 +3,10 @@ layout: post
 title:  "Le don dans notre rapport à l'argent"
 categories: [ article, don, argent, budget, reflexion, riche ]
 image: assets/images/posts/1-2-img.png
+source: Image par <a href="https://pixabay.com/fr/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336">OpenClipart-Vectors</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336">Pixabay</a>
 ---
 
-##Devenir riche : En donnant (partie 1/4)
+## Devenir riche : En donnant (partie 1/4)
 
 Lorsque l'on gère son argent viendra fatalement le moment où l'on devra renoncer à quelque chose, où l'on sera frustré de ne pas avoir assez et ce quelque soit notre niveau de revenu.
 
@@ -20,7 +21,3 @@ Cet argent est là mais on sait qu'il n'est pas disponible et si l'on doit faire
 Car même si cet argent est à nous, **𝐨𝐧 𝐫𝐞́𝐚𝐥𝐢𝐬𝐞 𝐪𝐮𝐞 𝐧𝐨𝐮𝐬 𝐧'𝐞𝐧 𝐚𝐯𝐨𝐧𝐬 𝐞𝐧 𝐟𝐚𝐢𝐭 𝐩𝐚𝐬 𝐭𝐚𝐧𝐭 𝐛𝐞𝐬𝐨𝐢𝐧 𝐪𝐮𝐞 𝐜𝐚** et au fond ce sentiment n'est il pas le principe même de la richesse ?
 
 Si vous donnez, avez vous remarqué cet effet positif sur vous même ? En avez vous d'autres à partager ?
-
-*\#budget \#argent \#don \#reflexion \#riche \#LeThéDuMercredi*
-
-Image par [OpenClipart-Vectors](https://pixabay.com/fr/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336) de [Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336)

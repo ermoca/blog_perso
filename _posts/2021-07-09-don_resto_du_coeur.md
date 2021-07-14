@@ -18,5 +18,3 @@ D'autre part, que ce soit par des actions bénévoles ou pour un don, si la caus
 [Site officiel des restos du coeur](https://www.restosducoeur.org/)
 
 [Leurs actions : Conseil budgetaire](https://www.restosducoeur.org/nos-actions/conseil-budgetaire-microcredit/)
-
-*\#budget \#argent \#don \#accompagnement \#microcrédit \#LaRecoDuVendredi*

@@ -3,6 +3,7 @@ layout: post
 title:  "Pourquoi j'aime tant mon budget ?"
 categories: [ temoignage, budget ]
 image: assets/images/posts/20210702.jpg
+source: Image par <a href="https://pixabay.com/fr/users/derweg-7520060/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6320719">DerWeg</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6320719">Pixabay</a>
 featured: true
 hidden: true
 ---
@@ -24,6 +25,3 @@ Mon budget est un guide, un conseiller tout spécialement dédié à mon service
 
 
 Si vous aussi, vous êtes un ou une fan de budget incompris par vos proches, racontez moi en commentaire tout ce que votre budget a pu faire pour vous !
-
-
-Image par <a href="https://pixabay.com/fr/users/derweg-7520060/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6320719">DerWeg</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6320719">Pixabay</a>

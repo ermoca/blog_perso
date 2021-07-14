@@ -4,6 +4,7 @@ title:  "Je réponds à vos questions !"
 categories: [ temoignage, question/réponse ]
 tags: []
 image: assets/images/posts/20210702-2.jpg
+source: Image par <a href="https://pixabay.com/fr/users/ansichthoch3-1636623/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1819966">anSICHThoch3</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1819966">Pixabay</a>
 description: "Présentation des questions réponses et "
 featured: true
 hidden: true
@@ -47,6 +48,3 @@ Voila quelle est ma situation...
   <input type="submit" value="Envoyer" />
   </div>
 </form>
-
-
-Image par <a href="https://pixabay.com/fr/users/ansichthoch3-1636623/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1819966">anSICHThoch3</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1819966">Pixabay</a>
