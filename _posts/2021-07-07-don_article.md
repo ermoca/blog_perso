@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le don dans notre rapport à l'argent"
+title:  "L'impact du don dans notre rapport à l'argent"
 categories: [ article, don, argent, budget, reflexion, riche ]
 image: assets/images/posts/1-2-img.png
 source: Image par <a href="https://pixabay.com/fr/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336">OpenClipart-Vectors</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=153336">Pixabay</a>
