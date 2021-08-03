@@ -12,10 +12,9 @@ hidden: true
 
 Envie d'échanger sur votre situation ou de poser une question en particulier ? Remplissez le formulaire ci-dessous pour m'envoyer votre message. 
 
-J'y répondrai au mieux et si le sujet s'y prête, je publierai de façon anonymisée la question et sa réponse sur la newsletter afin de les partager avec les autres lecteurs et de recevoir leurs propres conseils et retour d'expérience. 
+J'y répondrai au mieux et si le sujet s'y prête, je publierai de façon anonymisée la question et sa réponse sur la newsletter afin de les partager avec les autres lecteurs et de recevoir leurs propres conseils et retours d'expérience. 
 
-Ensemble nous sommes plus fort !
-
+Ensemble, nous sommes plus fort !
 <form action="https://formspree.io/f/xwkaqryp" method="post" class="contact-form">
   <input type="text" name="_gotcha" style="display: none;" />
   <input type="hidden" name="_language" value="fr" />
