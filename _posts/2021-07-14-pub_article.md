@@ -23,7 +23,7 @@ Comment ne pas se faire manipuler ? :
 
  en installant un bloqueur sur votre navigateur (je vous recommande notamment [uBlock Origin](https://ublockorigin.com/fr))
  
- Mais... et [les artistes/créateurs qui sont rémunérés par les publicités](../futur_article/) ?
+ Mais... et [les artistes/créateurs qui sont rémunérés par les publicités](../createur/) ?
  
  - étape 2 : confronter celles qui restent
 
