@@ -15,7 +15,7 @@ Si vous répondez non à la première, la seconde devrait vous faire réfléchir
 
 Nous sommes constamment exposés à des publicités qui nous *suggèrent* que nous pourrions être intéressés par ce qu'elles proposent. Alors même que nous n'y aurions jamais pensé par nous-mêmes.
 
-Instinctivement, on se projette dans ce que l'objet pourrait nous apporter et en particulier [si nous n'avons pas une vision claire](../futur_article/) de ce que nous voulons et de ce à quoi nous avons déjà assigné notre argent, il est rapidement tentant de prendre un peu de cet argent sur notre compte pour "se faire plaisir" ou "au cas où".
+Instinctivement, on se projette dans ce que l'objet pourrait nous apporter et en particulier [si nous n'avons pas une vision claire](../article/) de ce que nous voulons et de ce à quoi nous avons déjà assigné notre argent, il est rapidement tentant de prendre un peu de cet argent sur notre compte pour "se faire plaisir" ou "au cas où".
 
 Comment ne pas se faire manipuler ? : 
  
