@@ -13,9 +13,11 @@ Parmi tous nos pôles de dépenses indispensables, les frais alimentaires sont c
 Voici donc les 3 premières questions à se poser pour pouvoir économiser : Pourquoi ? Combien ? Comment ?
 
 1) Pourquoi souhaitons-nous réduire ? Est-ce simplement par principe ? Est-ce un cas de force majeure ? Est-ce parce que cet argent nous apporterait davantage de satisfaction si nous pouvions l’utiliser ailleurs ? 
+
 L’idée derrière cette question n’est pas de remettre en question la volonté d’économiser, mais plutôt de comprendre comment cette économie s’inscrit dans le contexte global de nos finances. Économiser est un moyen et non une fin. Connaitre nos motivations est la meilleure façon de maintenir nos efforts.
 
 2) Combien dépensons-nous en moyenne ? Pourquoi dépensons-nous cette somme ? Est-ce par manque d’organisation ? Par conviction ? Par choix ? 
+
 Pour savoir quel objectif se fixer, il faut ensuite comprendre quelle est notre marge de manœuvre. Manger est une nécessité, mais pour beaucoup d’entre nous il s’agit aussi d’un plaisir. Pour cela il faudra prendre conscience de la valeur que nous portons à notre alimentation et de ce qu’elle nous apporte. Revenant aux motivations de la première question, que sommes-nous prêts à sacrifier pour elle ? Quels compromis pouvons-nous au contraire accepter pour préserver ce qui nous plait dans notre façon de faire actuelle ?  
 
 Le plus haut budget nourriture que j’ai pu voir était celui d’une famille passionnée de cuisine. Les aliments qu’ils consomment sont bios et principalement locaux. La cuisine était autant une nécessité qu’un loisir et un budget pâtisserie aurait pu être pris en compte à part de l’alimentation basique. Il était effectivement possible de faire des économies en s’organisant davantage, mais pour eux l’objectif à atteindre restera facilement le double de la moyenne. En contrepartie, cette famille fait le choix de vacances moins couteuses et de ne pas avoir de voiture.
@@ -24,5 +26,6 @@ Le plus haut budget nourriture que j’ai pu voir était celui d’une famille p
 Nous économisons pour mettre notre argent au service de ce que nous aimons, avoir le sentiment de se priver pour y arriver est contreproductif (… [et dangereux](../article))
 
 3) Comment ? 
+
 Comprenez vos motivations, connaissez votre situation et identifiez vos choix de façon consciente. Cette simple prise de recul aura beaucoup plus d’impact que des soldes sur vos économies et votre satisfaction vis-à-vis de l’argent. 
 Cela dit ; rendez-vous au prochain article pour des méthodes concrètes pour réduire le cout de votre alimentation !
