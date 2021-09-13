@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Un coup d'oeil chez : Mes listes de courses"
+title:  "Un coup d'oeil chez : Passionnément organisée"
 categories: [ revente, occasion, argent, budget, recommandation ]
 image: assets/images/posts/9-3-img.png
 source: Image par <a href="https://pixabay.com/fr/users/ronomore-866556/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=953118">Ron Rev Fenomeno</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=953118">Pixabay</a>
