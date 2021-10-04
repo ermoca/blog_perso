@@ -4,7 +4,6 @@ title:  "Un coup d'oeil sur : Ou va l'argent des pauvres"
 categories: [argent, budget, livre, sociologie,  pauvreté, gestion, idées reçues ]
 image: assets/images/posts/13-3-img.png
 source: Inconnue
-hidden: true
 ---
 
 Lorsque j’ai commencé à me renseigner sur la gestion de l’argent et l’accompagnement au budget, c’est par ce livre que j’ai commencé : 
