@@ -295,6 +295,8 @@ span.post-read-more a:hover {
 
 .mediumnavigation .navbar-brand {
     font-weight: 500;
+    font-family: 'Libre Baskerville';
+    font-style: italic;
 }
 
 .mediumnavigation .dropdown-menu {

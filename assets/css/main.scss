@@ -13,3 +13,21 @@
 	"syntax",
     "starsnonscss"
 ;
+
+/* latin-ext */
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url(../fonts/LibreBaskerville-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url(../fonts/LibreBaskerville-Italic.ttf);
+  font-style: italic
+}
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url(../fonts/LibreBaskerville-Bold.ttf);
+  font-weight: bold;
+}
