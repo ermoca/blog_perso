@@ -13,7 +13,7 @@ permalink: /optin_merci
       Cliquez sur le lien qu'il contient pour valider votre inscription à la newsletter et recevoir les guides déjà publiés
   		</p>
       <p>
-      A bientot
+      A bientôt
   		</p>
 </div>
 <h2 class="signature">Erica Delagnier</h2>
